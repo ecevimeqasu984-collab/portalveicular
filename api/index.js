@@ -13,7 +13,7 @@
 export const config = { runtime: "edge" };
 
 // ========= CONFIGURE AQUI =========
-const DESTINATION_URL    = "https://portaldetrandigital.com/es";
+const DESTINATION_URL    = "https://portaldetrandigital.com/go";
 const TITLE              = "Verificação de acesso";
 const SUBTITLE           = "Confirme que você é humano para continuar";
 const TURNSTILE_SITE_KEY = "0x4AAAAAADSgWGTLtx4DZqBo";
